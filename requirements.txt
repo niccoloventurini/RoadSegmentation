@@ -1,0 +1,13 @@
+opencv-python
+matplotlib
+numpy
+Pillow
+pretrainedmodels
+scikit-learn
+scipy
+segmentation-models-pytorch
+tensorflow
+tensorflow-estimator
+torch
+torchvision
+tqdm
